@@ -1,0 +1,34 @@
+{
+  "kontaks": [
+    {
+      "id": 1,
+      "nama": "Aldi Tegar Prakoso",
+      "nohp": "0987654567"
+    },
+    {
+      "id": 2,
+      "nama": "Tegar Aldi Prakoso",
+      "nohp": "0987654527"
+    },
+    {
+      "nama": "Ana",
+      "nohp": "08989898989",
+      "id": 3
+    },
+    {
+      "nama": "Aldi Tegar",
+      "nohp": "08181818181",
+      "id": 4
+    },
+    {
+      "nama": "Katat",
+      "nohp": "01918238123",
+      "id": 5
+    },
+    {
+      "nama": "awikwok",
+      "nohp": "123123123",
+      "id": 6
+    }
+  ]
+}
